@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Daniel</h1>
 <h3 align="center">Estudante de full-stack da Alura</h3>
 
-- 🔭 Atualmente trabalhei nesse projeto [Desafio ONE](https://github.com/DanielSP318/ChallengeONE-Forca)
+- 🔭 Atualmente trabalhei nesse projeto [Page Error](https://github.com/DanielSP318/page-error)
 
 - 🌱 Atualmente estou estudando na Alura **Full-stack**
 
